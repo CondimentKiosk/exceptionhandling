@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"more","l":"CheckedException"},{"p":"jdoc","l":"Time"},{"p":"more","l":"TryResources"},{"p":"more","l":"UncheckedException"}];updateSearchResults();
